@@ -24,6 +24,6 @@ public class EmpController {
         for (Emp e:empList){
             System.out.println(e);
         }
-        return "empli";
+        return "emplist";
     }
 }
